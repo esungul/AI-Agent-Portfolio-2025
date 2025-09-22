@@ -69,3 +69,8 @@ By the s, some of the previous research topics became more active than others. R
 Recent work has seen the resurgence of feature-based methods used in conjunction with machine learning techniques and complex optimization frameworks. 
 The advancement of Deep Learning techniques has brought further life to the field of computer vision. The accuracy of deep learning algorithms on several benchmark computer vision data sets for tasks ranging from classification, segmentation and optical flow has surpassed prior methods.
 
+Snippet 21: A neural network is a group of interconnected units called neurons that send signals to one another. Neurons can be either biological cells or signal pathways. While individual neurons are simple, many of them together in a network can perform complex tasks. There are two main types of neural networks.
+
+Snippet 22: In neuroscience, a biological neural network is a physical structure found in brains and complex nervous systems – a population of nerve cells connected by synapses.
+In machine learning, an artificial neural network is a mathematical model used to approximate nonlinear functions. Artificial neural networks are used to solve artificial intelligence problems.
+
