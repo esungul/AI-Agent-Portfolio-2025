@@ -1,0 +1,4 @@
+- Transformers use attention mechanisms to process sequences, key to DistilBERT in my RAG chatbot.
+- Self-attention enables context-aware embeddings, improving retrieval quality.
+- Job skill: Understanding transformers is essential for 2025 LLM roles.
+- Challenge: Math-heavy; focused on attention concepts.
