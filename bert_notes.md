@@ -1,0 +1,5 @@
+- Ablations confirm bidirectionality boosts QA accuracy by 2-5%, key for context in my multi-turn agent.
+- Removing next-sentence prediction hurts coherence, relevant for fine-tuning agents with tool histories.
+- Conclusion emphasizes BERT's generality for downstream tasks, paving way for efficient methods like LoRA in 2025.
+- Job skill: Understanding ablations helps debug fine-tuned LLMs for portfolio apps.
+- Challenge: High compute in full BERT; LoRA addresses this for practical agent creation.
